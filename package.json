@@ -1,0 +1,22 @@
+{
+  "name": "trungbinhcong-khangan0837",
+  "version": "1.0.1",
+  "description": "trungbinhcong-khangan0837",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khangan0837/trungbinhcong-khangan0837.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "khangan0837",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khangan0837/trungbinhcong-khangan0837/issues"
+  },
+  "homepage": "https://github.com/khangan0837/trungbinhcong-khangan0837#readme"
+}
