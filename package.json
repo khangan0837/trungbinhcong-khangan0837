@@ -1,6 +1,6 @@
 {
   "name": "trungbinhcong-khangan0837",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "trungbinhcong-khangan0837",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "cacl"
   ],
   "author": "khangan0837",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/khangan0837/trungbinhcong-khangan0837/issues"
   },
